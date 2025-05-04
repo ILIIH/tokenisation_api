@@ -1,3 +1,4 @@
+python-3.11.13
 pip>=24.0
 fastapi==0.95.0
 pydantic==1.10.7
