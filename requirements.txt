@@ -3,3 +3,4 @@ fastapi==0.95.0
 pydantic==1.10.7
 transformers==4.39.0  
 uvicorn==0.22.0
+torch==1.13.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
