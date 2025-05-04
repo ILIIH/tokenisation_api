@@ -1,0 +1,1 @@
+web: uvicorn ration_tokenizer_server:app --host 0.0.0.0 --port ${PORT}
